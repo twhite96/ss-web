@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.mdoc": "markdown"
+    },
+    "frontMatter.content.pageFolders": [
+      {
+        "title": "blog",
+        "path": "[[workspace]]/src/content/blog"
+      }
+    ]
+}
